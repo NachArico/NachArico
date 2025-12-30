@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-### Frontend Developer | React & JavaScript<br>📍 *Valencia, Spain*</p>
+Frontend Developer | React & JavaScript<br>📍 Valencia, Spain</p>
 
 ###
 
-<h2 align="left">I am a **Junior Frontend Developer** with a solid foundation in **JavaScript and React**. I am obsessively focused on code quality and building intuitive user interfaces.</h2>
+<h2 align="left">I am a Junior Frontend Developer with a solid foundation in JavaScript and React. I am obsessively focused on code quality and building intuitive user interfaces.</h2>
 
 ###
 
@@ -36,6 +36,6 @@
 ###
 
 <p align="left">
-### 📫 Contact Me<br><br>Have a project in mind or want to chat about tech?<br><br>* 🌐 **Portfolio:** [portfolio-ignacio-arico.netlify.app](https://portfolio-ignacio-arico.netlify.app)<br>* 💼 **LinkedIn:** [Ignacio Arico](https://www.linkedin.com/in/ignacio-arico-82475b286/)<br>* 📧 **Email:** [Ignacio.arico11@gmail.com](mailto:Ignacio.arico11@gmail.com)</p>
+📫 Contact Me<br><br>Have a project in mind or want to chat about tech?<br><br> 🌐 Portfolio: [portfolio-ignacio-arico.netlify.app](https://portfolio-ignacio-arico.netlify.app)<br> 💼 LinkedIn: [Ignacio Arico](https://www.linkedin.com/in/ignacio-arico-82475b286/)<br> 📧 Email: [Ignacio.arico11@gmail.com](mailto:Ignacio.arico11@gmail.com)</p>
 
 ###
