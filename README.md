@@ -3,11 +3,11 @@
 ###
 
 <p align="left">
-Frontend Developer | React & JavaScript<br>📍 Valencia, Spain</p>
+Web Developer | React & JavaScript<br>📍 Valencia, Spain</p>
 
 ###
 
-<h2 align="left">I am a Junior Frontend Developer with a solid foundation in JavaScript and React. I am obsessively focused on code quality and building intuitive user interfaces.</h2>
+<h2 align="left">I am a Web Developer with a solid foundation in JavaScript and React. I am obsessively focused on code quality and building intuitive user interfaces.</h2>
 
 ###
 
